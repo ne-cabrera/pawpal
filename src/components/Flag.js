@@ -1,5 +1,5 @@
 'use strict';
-
+/* seria mejor almacenar los datos en una base de datos*/
 import React from 'react';
 
 const data = {
